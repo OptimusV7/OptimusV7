@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Ahoy 👋
+- 🌱 I’m currently learning React
 <!--
 **OptimusV7/OptimusV7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
