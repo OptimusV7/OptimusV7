@@ -1,5 +1,5 @@
 ### Ahoy 👋
-- 🌱 I’m currently building with React and .net core 6
+- 🌱 I’m currently building with Syncfusion and .net core 6
 <!--
 **OptimusV7/OptimusV7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
