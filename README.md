@@ -1,5 +1,5 @@
 ### Ahoy 👋
-- 🌱 I’m currently building and deploying with .NET CORE 6
+- 🌱 I’m currently building with .NET CORE 8
 <!--
 **OptimusV7/OptimusV7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
